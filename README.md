@@ -4,7 +4,7 @@ I'm Owen, an MSc Marine Vertebrate Ecology and Conservation student at the Unive
 ## What am I currently working on
 Currently, I'm starting to work on my thesis, understanding the "Differences in the patterns of habitat utilisation of two species of pagophilic Antarctic pinnipeds, the Crabeater and Weddell seal. I'll be analysing 30 years of tracking data for the two species to understand how their habitat use contrasts from each other, and how they both have changed over the past few decades.
 
-The aim in relation to Github is for all of my spatial analysis in relation to this to be readily available and transparent; and for this to be something I can build on and apply to similar projects in the future. 
+The aim in relation to Github is for all of my spatial analysis that I will do on R in relation to this to be readily available and transparent; and for this to be something I can build on and apply to similar projects in the future. 
 
 ### What I would like to do in future years
 - Perform similar analysis on other Antarctic marine vertebrates
