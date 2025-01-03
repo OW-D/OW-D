@@ -7,7 +7,7 @@ Currently, I'm starting to work on my thesis, understanding the differences in t
 The aim in relation to Github is for all of my spatial analysis that I will do on R in relation to this to be readily available and transparent; and for this to be something I can build on and apply to similar projects in the future. 
 
 ### What I would like to do in future years
-- Perform similar analysis on other Antarctic marine vertebrates
+- Perform similar analysis on other Antarctic and polar marine vertebrates
 - Work on novel ways I can create visualisations of tracking data for marine vertebrates which is readily understood by the general public
 - Utilise other visualisation or auditory techniques to get this information across; infographics, music, comics etc.
 
